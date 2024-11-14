@@ -1,5 +1,5 @@
-# Projeto NodeJS Boilerplate
+# Projeto NodeJS JogoUS
 
-## Descrição
+## Diagrama de classes
 
-Projeto base em NodeJS
+https://miro.com/app/board/uXjVLEn0z6w=/
